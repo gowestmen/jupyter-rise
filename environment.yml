@@ -8,5 +8,10 @@ dependencies:
   - pandas
   - bokeh
   - rise
+  - geopandas
+  - shapely
+  - cartagen4py
+  - ipywidgets
+  - tqdm
 
 
