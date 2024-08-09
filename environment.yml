@@ -8,8 +8,6 @@ dependencies:
   - pandas
   - bokeh
   - rise
-  - geopandas
-  - shapely
-  - ipywidgets
+
 
 
