@@ -10,7 +10,6 @@ dependencies:
   - rise
   - geopandas
   - shapely
-  - cartagen4py
   - ipywidgets
 
 
